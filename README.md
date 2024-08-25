@@ -6,18 +6,18 @@
 - 👯 I’m looking to collaborate on **web apps**
 
 - 💬 Ask me about **Python, JavaScript, PHP**
-
-- 📫 How to reach me **shoroukhatem07@outlook.com**
-
+- 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UMJHQ-S6KZD2iG5FqoVBz_vE_vkZJ55t/view?usp=sharing](https://drive.google.com/file/d/1UMJHQ-S6KZD2iG5FqoVBz_vE_vkZJ55t/view?usp=sharing)
 
 - ⚡ Fun fact **When I'm not coding I'm stuffing my face in a huge fantasy book**
 
 
-
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DamarisM87&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DamarisM87&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -39,6 +39,10 @@
 
 ###
 
+<img align="right" height="150" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAd/cat-computer.gif"  />
+
+###
+
 <div align="left">
   <a href="assassinsblade7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -47,6 +51,23 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="shoroukhatem07@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/DamarisM87/count.svg?"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/DamarisM87/DamarisM87/output/snake.svg" alt="Snake animation" />
+
+###
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
