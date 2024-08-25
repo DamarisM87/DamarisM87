@@ -6,11 +6,12 @@
 - 👯 I’m looking to collaborate on **web apps**
 
 - 💬 Ask me about **Python, JavaScript, PHP**
-- 
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UMJHQ-S6KZD2iG5FqoVBz_vE_vkZJ55t/view?usp=sharing](https://drive.google.com/file/d/1UMJHQ-S6KZD2iG5FqoVBz_vE_vkZJ55t/view?usp=sharing)
 
 - ⚡ Fun fact **When I'm not coding I'm stuffing my face in a huge fantasy book**
 
+<h2 align="left">Hi 👋! My name is Sherouk and I'm a web developer from Egypt.</h2>
 
 ###
 
@@ -66,10 +67,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/DamarisM87/DamarisM87/output/snake.svg" alt="Snake animation" />
-
-###
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-</div>
 
 ###
