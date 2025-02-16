@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Python, JavaScript, PHP**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UMJHQ-S6KZD2iG5FqoVBz_vE_vkZJ55t/view?usp=sharing](https://drive.google.com/file/d/1UMJHQ-S6KZD2iG5FqoVBz_vE_vkZJ55t/view?usp=sharing)
-
 - ⚡ Fun fact **When I'm not coding I'm stuffing my face in a huge fantasy book**
 
 
